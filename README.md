@@ -21,8 +21,6 @@ open or use the file.
 ## What's here
 - `Anvik_Trail_Co_Dashboard.xlsx` — the full workbook (4 sheets: README,
   Raw Data, Dashboard, Data Cleaning Log)
-- `generate_raw_data.py` — script that generated the synthetic messy source
-  data (seeded random, fully reproducible)
 - `build_workbook.py` — script that builds the workbook from that data,
   including every cleaning and dashboard formula
 
